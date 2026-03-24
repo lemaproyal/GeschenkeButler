@@ -1,1 +1,12 @@
+# Niemals in GitHub pushen:
+.env
+.env.local
+.env.production
 
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Node (falls ihr später npm nutzt)
+node_modules/
+.vercel
